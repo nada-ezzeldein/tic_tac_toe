@@ -1,0 +1,5 @@
+﻿  tic_tac_toe_.cpp
+D:\tic_tac_toe_\tic_tac_toe_\tic_tac_toe_.cpp(252,17): warning C4129: ' ': unrecognized character escape sequence
+D:\tic_tac_toe_\tic_tac_toe_\tic_tac_toe_.cpp(254,16): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\tic_tac_toe_\tic_tac_toe_\tic_tac_toe_.cpp(254,29): warning C4804: '<': unsafe use of type 'bool' in operation
+  tic_tac_toe_.vcxproj -> D:\tic_tac_toe_\x64\Debug\tic_tac_toe_.exe
